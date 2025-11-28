@@ -2,7 +2,7 @@
 
 2）a.properties as curve configuration
 
-3）After the environment is configured, update the file path in each Java source file to your current working directory.  To complete the experiment, run the following classes in sequence: KeyGen，VehicleRegistration, ProxyAuthorization, DataEncrypted, SigmaGen, Chal, ProofGen, Verify, DataDecrypted, TimingProofVerification. The `Deduplication` class implements the data chunk deduplication algorithm.
+3）After the environment is configured, update the file path in each Java source file to your current working directory.  To complete the experiment, run the following classes in sequence: KeyGen，VehicleRegistration, ProxyAuthorization, DataEncrypted, SigmaGen, Chal, ProofGen, Verify, DataDecrypted, TimingProofVerification. 
 
 4）If our work is helpful to you, please quote it：
 
@@ -18,4 +18,5 @@
   year = {2025},
   pages = {1–1}
 }
+
 ```
